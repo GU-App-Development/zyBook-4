@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="how_hungry_text_size">24sp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="text_min_height">48dp</dimen>
+</resources>
